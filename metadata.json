@@ -1,0 +1,6 @@
+{
+  "name": "MNS Fashion Brand",
+  "description": "Premium Bangladesh Luxury Fashion E-Commerce Platform founded by MD: Najim Shakh in Palashbari, Gaibandha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
